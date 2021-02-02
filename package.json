@@ -1,0 +1,15 @@
+{
+  "name": "com.bloops.waypointsystem",
+  "version": "0.1.0",
+  "displayName": "Bloops Waypoint System",
+  "description": "Dead simple waypoint system. Makes editing a path defined by transforms slightly easier. Use this with something like DOTween to animate something along the path.",
+  "unity": "2017.1",
+  "keywords": [
+    "bloops",
+    "waypoint"
+  ],
+  "author": {
+    "name": "Hunter Dyar"
+  },
+  "type": "library"
+}
