@@ -1,5 +1,8 @@
-# Bloops Waypoint System
 
+# Note To Self: Use Unity Splines
+The [Unity Splines Package](https://blog.unity.com/technology/building-better-paths-with-splines-in-2022-2) seems to be pretty good now.
+
+# Bloops Waypoint System
 
 
 Dead simple waypoint system for Unity. 
